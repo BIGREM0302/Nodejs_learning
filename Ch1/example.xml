@@ -1,0 +1,10 @@
+<products>
+    <item type="old">
+        <name>Super Car</name>
+        <color>blue</color>
+    </item>
+    <item type="new">
+        <name>Fancy Car</name>
+        <color>Green</color>
+    </item>
+</products>

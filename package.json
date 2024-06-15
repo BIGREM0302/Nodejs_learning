@@ -1,0 +1,32 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "My first try to nodejs",
+  "main": "./lib/hello.js",
+  "scripts": {
+    "test": "node examples/app.js"
+  },
+  "dependencies": {
+    "brain": "^1.0.0",
+    "csv-parser": "^3.0.0",
+    "hashmap": "^2.4.0",
+    "xml2js": "^0.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIGREM0302/Nodejs_learning.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": {
+    "name": "Max Zheng",
+    "email": "maxzheng0302@gmail.com"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BIGREM0302/Nodejs_learning/issues"
+  },
+  "homepage": "https://github.com/BIGREM0302/Nodejs_learning#readme"
+}
